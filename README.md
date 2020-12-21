@@ -12,7 +12,8 @@ All data-collection efforts were performed in the Instrumentation Lab at The Uni
 
 
 ##  Instrumentation 
-**Horiba PTI Quantamaster 4** <br>
+**Horiba PTI Quantamaster 400** <br>
+Software: FelixGX
 
 
 
