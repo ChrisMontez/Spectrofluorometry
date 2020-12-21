@@ -3,10 +3,7 @@
 ## :electric_plug: Instrumentation 
 
 <p align = "center">
-
-<div align="left">
-<b> Quantamaster 4</b>
-</div>
+Horiba PTI Quantamaster 4
 <img src="img/instrument.jpg"  width="600">
 
 </p>
