@@ -12,7 +12,7 @@ All data-collection efforts were performed in the Instrumentation Lab at the Uni
 
 
 ##  Instrumentation 
-**Horiba PTI Quantamaster 4** \n
+**Horiba PTI Quantamaster 4** <br>
 Slits: 0.1, 0.1, 3.5, 3.5 mm
 
 
