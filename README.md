@@ -4,7 +4,7 @@
 **PTI Quantamaster 4**
 
 <p  align = "center" >
-**PTI Quantamaster 4**
+<b align= "left"> Quantamaster 4</b>
 <img src="img/instrument.jpg"  width="600">
 <!-- <img src="img/fluorescein_conc">
  -->
