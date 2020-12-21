@@ -4,22 +4,18 @@
 Horiba PTI Quantamaster 4
 <p align = "center">
 
-<img src="img/instrument.jpg"  width="600">
+<img src="img/instrument.jpg" , width="600">
 
 </p>
 
 
 ## :bulb: Detection Limit
 <p  align = "center" >
-<img src="img/detection_limit.png">
+<img src="img/detection_limit.png", , width="500">
 </p>
 
 
 ## :chart_with_upwards_trend: Calibration
-<p  align = "center" >
-<img src="img/table.PNG", width="500">
-</p>
-
 <p  align = "center" >
 <img src="img/table.PNG", width="500">
 <img src="img/fluorescein_conc.png", width="500">
@@ -29,5 +25,5 @@ Horiba PTI Quantamaster 4
 ##  :bar_chart: Analysis 
 
 <p  align = "center" >
-<img src="img/analyte.png">
+<img src="img/analyte.png", width="500">
 </p>
