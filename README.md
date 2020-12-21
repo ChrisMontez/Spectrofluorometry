@@ -16,7 +16,7 @@ All data-collection efforts were performed in the Instrumentation Lab at The Uni
 * Software: FelixGX <br>
 * Slits Setting: [0.1 mm, 0.1 mm, 3.5 mm, 3.5 mm]
 * Light Source: Xenon arc lamp
-* Wavelength Accuracy +/- 0.3 nm
+* Wavelength Accuracy: (+/-) 0.3 nm
 
 
 
