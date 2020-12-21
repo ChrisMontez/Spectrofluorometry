@@ -4,9 +4,9 @@
 
 <p align = "center">
 
-<p align="left">
+<div align="left">
 <b> Quantamaster 4</b>
-</p>
+</div>
 <img src="img/instrument.jpg"  width="600">
 <!-- <img src="img/fluorescein_conc">
  -->
