@@ -4,9 +4,8 @@
 
 <p align = "center">
 
-<img src="img/instrument.jpg"  width="600">
-<!-- <img src="img/fluorescein_conc">
- -->
+<img src="img/instrument.jpg"  width="700">
+
 </p>
 
 
