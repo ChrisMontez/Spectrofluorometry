@@ -1,6 +1,7 @@
-# Determination of Fluorescein Content in a Disodium Phosphate Buffer
+# Fluorescein Content in a Disodium Phosphate Buffer
 
-## :thought_balloon: Background 
+## :thought_balloon: Objective
+The objective of this experiment was to determine the concentration of fluorescein dissolved in a 0.05M Disodium Phosphate Buffer. 
 All data was collected manually in the Instrumentation Lab at the University of the Incarnate Word. All visualizations and calculations were creating using Python and Seaborn.
 ## :electric_plug: Instrumentation 
 **Horiba PTI Quantamaster 4**
