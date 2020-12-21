@@ -47,4 +47,9 @@ All data-collection efforts were performed in the Instrumentation Lab at the Uni
 
 ### Determined Concentratrion of Fluorescein:
 
+`from sklearn import linear_model`
+`reg = linear_model.LinearRegression()`
+`reg.fit(df1[['Fluorescence']], df1.Concentration)`
+
+
 * 0.004 μmol
