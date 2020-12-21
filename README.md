@@ -4,7 +4,7 @@
 **PTI Quantamaster 4**
 
 <p>
-<img src="img/instrument.jpg"  width="300">
+<img src="img/instrument.jpg"  width="600">
 <!-- <img src="img/fluorescein_conc">
  -->
 </p>
