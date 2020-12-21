@@ -1,9 +1,9 @@
 # Determination of Fluorescein Concentration in Disodium Phosphate
 
 ## :electric_plug: Instrumentation 
-
-<p align = "center">
 Horiba PTI Quantamaster 4
+<p align = "center">
+
 <img src="img/instrument.jpg"  width="600">
 
 </p>
