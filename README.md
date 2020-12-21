@@ -10,18 +10,18 @@ Horiba PTI Quantamaster 4
 
 
 ## :bulb: Detection Limit
-<!-- <p  align = "left" >
+<p  align = "center" >
 <img src="img/detection_limit.png">
-</p> -->
+</p>
 
 
 ## :chart_with_upwards_trend: Calibration
 <p  align = "center" >
-<img src="img/detection_limit.png">
 <img src="img/table.PNG", width="500">
 </p>
 
 <p  align = "center" >
+	<img src="img/table.PNG", width="500">
 <img src="img/fluorescein_conc.png">
 </p>
 
