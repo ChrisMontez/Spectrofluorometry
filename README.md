@@ -24,7 +24,7 @@ Horiba PTI Quantamaster 4
 </p>
 
 
-##  :bar_chart: Analysis of Analyte  
+##  :bar_chart: Analysis 
 
 <p  align = "center" >
 <img src="img/analyte.png">
