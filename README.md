@@ -17,7 +17,7 @@ Horiba PTI Quantamaster 4
 
 ## :chart_with_upwards_trend: Calibration
 <p  align = "center" >
-<img src="img/table.PNG", width="450">
+<img src="img/table.PNG", width="500">
 </p>
 
 <p  align = "center" >
