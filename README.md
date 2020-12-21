@@ -4,7 +4,7 @@
 
 <p align = "center">
 
-<p></p> align="left">
+<p align="left">
 <b> Quantamaster 4</b>
 </p>
 <img src="img/instrument.jpg"  width="600">
