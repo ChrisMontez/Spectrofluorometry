@@ -1,7 +1,7 @@
-# Determination of Fluorescein Concentration in Disodium Phosphate
+# Determination of Fluorescein Content in a Disodium Phosphate Buffer
 
 ## :electric_plug: Instrumentation 
-Horiba PTI Quantamaster 4
+**Horiba PTI Quantamaster 4**
 <p align = "center">
 
 <img src="img/instrument.jpg"  width="600">
