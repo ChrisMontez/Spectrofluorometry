@@ -14,11 +14,12 @@
 
 ## :bulb: Detection Limit
 
+
+
+## :chart_with_upwards_trend: Calibration
 <p  align = "center" >
 <img src="img/fluorescein_conc.png">
 </p>
-
-## :chart_with_upwards_trend: Calibration
 
 
 ##  :bar_chart: Determination of Fluorescein in Disodium Phosphate Buffer  
