@@ -1,7 +1,6 @@
 # Determination of Fluorescein Concentration in Disodium Phosphate
 
 ## :electric_plug: Instrumentation 
-**PTI Quantamaster 4**
 
 <p  align = "center" >
 <div align="left">
