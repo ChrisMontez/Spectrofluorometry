@@ -14,6 +14,7 @@ All data-collection efforts were performed in the Instrumentation Lab at The Uni
 ##  Instrumentation 
 **Horiba PTI Quantamaster 400** <br>
 Software: FelixGX
+Slits Setting: 0.1 mm, 0.1 mm, 3.5 mm, 3.5 mm
 
 
 
@@ -34,7 +35,7 @@ Software: FelixGX
 
 
 ##   Analysis 
-**Slits: 0.1, 0.1, 3.5, 3.5 mm**
+
 
 <p  align = "center" >
 <img src="img/analyte.png" width="500">
