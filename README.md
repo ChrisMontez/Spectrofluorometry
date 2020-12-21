@@ -21,8 +21,8 @@ Horiba PTI Quantamaster 4
 </p>
 
 <p  align = "center" >
-	<img src="img/table.PNG", width="500">
-<img src="img/fluorescein_conc.png">
+<img src="img/table.PNG", width="500">
+<img src="img/fluorescein_conc.png", width="500">
 </p>
 
 
