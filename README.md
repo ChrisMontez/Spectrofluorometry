@@ -10,7 +10,7 @@ Horiba PTI Quantamaster 4
 
 
 ## :bulb: Detection Limit
-<p  align = "center" >
+<p  align = "left" >
 <img src="img/detection_limit.png">
 </p>
 
