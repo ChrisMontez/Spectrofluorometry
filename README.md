@@ -14,5 +14,5 @@
 
 ### Limit Detection 
 <p  align = "center" >
-<img src="img/fluorescein_conc">
+<img src="img/fluorescein_conc.png">
 </p>
