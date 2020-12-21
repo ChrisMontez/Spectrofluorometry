@@ -45,4 +45,5 @@ All data-collection efforts were performed in the Instrumentation Lab at the Uni
 <img src="img/analyte_cal.png" width="500">
 </p>
 
-### Determined Concentratrion of Fluorescein in Buffer Solution: 0.004 μmol
+## Determined Concentratrion of Fluorescein in Buffer Solution:
+### * 0.004 μmol
