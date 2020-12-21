@@ -11,16 +11,18 @@ All data was collected manually in the Instrumentation Lab at the University of 
 </p>
 
 
-## :bulb: Detection Limit
-<p  align = "center" >
-<img src="img/detection_limit.png" width="500">
-</p>
+
 
 
 ## :chart_with_upwards_trend: Calibration
 <p  align = "center" >
 <img src="img/table.PNG", width="500">
 <img src="img/fluorescein_conc.png" width="500">
+</p>
+
+## :bulb: Detection Limit
+<p  align = "center" >
+<img src="img/detection_limit.png" width="500">
 </p>
 
 
