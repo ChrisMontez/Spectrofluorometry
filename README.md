@@ -18,12 +18,12 @@ Horiba PTI Quantamaster 4
 ## :chart_with_upwards_trend: Calibration
 <p  align = "center" >
 <img src="img/table.PNG", width="500">
-<img src="img/fluorescein_conc.png", width="500">
+<img src="img/fluorescein_conc.png" width="500">
 </p>
 
 
 ##  :bar_chart: Analysis 
 
 <p  align = "center" >
-<img src="img/analyte.png", width="500">
+<img src="img/analyte.png" width="500">
 </p>
