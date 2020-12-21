@@ -3,7 +3,7 @@
 ## :electric_plug: Instrumentation 
 **PTI Quantamaster 4**
 
-<p>
+<p  align = "center" >
 <img src="img/instrument.jpg"  width="600">
 <!-- <img src="img/fluorescein_conc">
  -->
