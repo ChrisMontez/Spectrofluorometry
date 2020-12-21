@@ -4,7 +4,7 @@
 
 <p align = "center">
 
-<img src="img/instrument.jpg"  width="700">
+<img src="img/instrument.jpg"  width="600">
 
 </p>
 
