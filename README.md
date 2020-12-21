@@ -3,6 +3,14 @@
 ## :thought_balloon: Objective
 The objective of this experiment was to determine the concentration of fluorescein dissolved in a 0.05M Disodium Phosphate Buffer. 
 All data-collection efforts were performed in the Instrumentation Lab at the University of the Incarnate Word. The visualizations in this repository were created using Seaborn. Regression analysis  of the calibration curve was performed using scikit-learn.
+### Python Libraries Used 
+* Numpy
+* Matplotlib
+* Seaborn
+* Scikit Learn
+
+
+
 ## :electric_plug: Instrumentation 
 **Horiba PTI Quantamaster 4**
 <p align = "center">
