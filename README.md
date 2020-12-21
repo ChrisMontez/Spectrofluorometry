@@ -48,6 +48,6 @@ All data-collection efforts were performed in the Instrumentation Lab at the Uni
 ## Conclusion
 
 Spectrofluorometric analysis was performed on a sample containing an unknown concentration of fluorescein in a 0.05 M disodium phosphate buffer. A linear regression model was created using seven fluorescein/buffer solutions of known concentration, and the Python scikit-learn library.
-*The slope coefficient of the standard curve is 9.1e-09  
-*The R-Squared value for the regression analysis is 0.996   
-*The concentraion of fluorescein in the unknown sample is 0.004 μmol.
+* The slope coefficient of the standard curve is 9.1e-09  
+* The R-Squared value for the regression analysis is 0.996   
+* The concentraion of fluorescein in the unknown sample is 0.004 μmol.
