@@ -51,4 +51,6 @@ All data-collection efforts were performed in the Instrumentation Lab at The Uni
 
 Spectrofluorometric analysis was performed on a sample containing an unknown concentration of fluorescein in a 0.05 M disodium phosphate buffer. A linear regression model was created using seven fluorescein/buffer solutions of known concentration and the Scikit-Learn Python library. <br>
 * R-Squared: **0.996** <br>
-* Fluorescein Content: **0.004 μmol**.
+* Fluorescein Content: **0.0037 μmol**.
+
+
